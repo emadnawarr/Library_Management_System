@@ -1,0 +1,16 @@
+library\database\BookDatabase.class
+library\main\TestAdmin.class
+library\roles\LibrarianRole.class
+library\records\base\Record.class
+library\database\LibrarianUserDatabase.class
+library\records\Book.class
+library\database\StudentBookDatabase.class
+library\roles\AdminRole.class
+library\database\base\IBaseDatabase.class
+library\roles\base\UserRole.class
+library\records\StudentBook.class
+library\database\base\BaseDatabase.class
+library\main\TestLibrarianRole.class
+library\records\base\IRecord.class
+library\records\LibrarianUser.class
+library\main\Lab4University_Library_Management_System.class
